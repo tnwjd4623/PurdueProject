@@ -9,9 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: "SU JEONG LEE
-HYEIN SEO
-JIDEOK PARK" # add your name
+author: "SU JEONG LEE / HYEIN SEO / JIDEOK PARK" # add your name
 author-img:  # add your photo
 about-author: Purdue Project - IOT SMART BUILDING # add description
 social-twitter: # add your Twitter handle
