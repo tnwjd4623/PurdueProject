@@ -1,0 +1,18 @@
+---
+layout: post
+title: 2019.01.02 Project meeting
+date: 2019-01-02 15:46:30 +0300
+description: 2019.01.03 Project meeting
+img: 20190103.jpg 
+tags: [Purdue]
+---
+#PURDUE - IOT SMART BUILDING
+2019.01.02 미팅     
+  
+#활동 내용  
+>주제 선정
+  
+#단체사진  
+![photos]({{site.baseurl}}/assets/img/20190103.jpg)
+
+
