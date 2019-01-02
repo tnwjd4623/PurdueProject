@@ -6,10 +6,10 @@ description: Purdue Project Meeting
 tags: [Purdue]
 ---
   
-# PURDUE - IOT SMART BUILDING  
+## PURDUE - IOT SMART BUILDING  
 2019.01.02 미팅  
 
-# 활동 내용
+## 활동 내용
 > 1. github.io 블로그 개설  
 
 

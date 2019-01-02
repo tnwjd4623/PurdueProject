@@ -5,13 +5,13 @@ date: 2019-01-02 15:46:30 +0300
 description: 2019.01.03 Project meeting
 tags: [Purdue]
 ---
-# PURDUE - IOT SMART BUILDING  
+## PURDUE - IOT SMART BUILDING  
 2019.01.02 미팅     
   
-# 활동 내용  
+## 활동 내용  
 >1. 주제 선정
   
-# 단체사진  
+## 단체사진  
 ![photos]({{site.baseurl}}/assets/img/20190103.jpg)
 
 
