@@ -1,9 +1,15 @@
 ---
 layout: post
-title: 2018.12.31 퍼듀 프로젝트
+title: 2018.12.31 Project Meeting
 date: 2018-12-31 16:07:20 +0300
-description: test
+description: Purdue Project Meeting
 tags: [Purdue]
 ---
-2018년 12월 31일  퍼듀 프로젝트 1일차    
-github.io 블로그 개설하기
+  
+# PURDUE - IOT SMART BUILDING  
+2019.01.02 미팅  
+
+# 활동 내용
+> 1. github.io 블로그 개설  
+
+
