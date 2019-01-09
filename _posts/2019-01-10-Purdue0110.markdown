@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2018.01.10 Project Meeting
-date: 2018-01-10 11:00:00 +0300
+title: 2019.01.10 Project Meeting
+date: 2019-01-10 11:00:00 +0300
 description: Purdue Project Meeting
 tags: [Purdue]
 ---
