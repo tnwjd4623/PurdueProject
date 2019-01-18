@@ -9,9 +9,14 @@ tags: [Purdue]
 ## PURDUE - IOT SMART BUILDING
 ### 2019.01.18 진행상황
   
-
-#### 주제: Red Light Running
->진행상황: Lider를 이용한 거리 및 속도 측정
+  
+    
+#### 진행상황
+> 1. 주제 재 선정 : Red Light Running
+> 2. 진행상황: Lider를 이용한 속도 및 거리 측정
+  
+      
+         
 
 ### 사진
 ![photos]({{site.baseurl}}/assets/img/20190118.jpg)
