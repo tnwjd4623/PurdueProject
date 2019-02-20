@@ -1,0 +1,24 @@
+---
+layout: post
+title: 2019.02.20 Team#7 Progress
+date: 2019-02-20 11:00:00 +0300
+description: Purdue Project Meeting
+tags: [Purdue]
+---
+  
+  
+     
+## PURDUE - IOT SMART BUILDING
+2019.02.20 Meeting
+
+## Done
+> 1. Finish development System
+> 2. Experiment RLR Prediction System
+  
+  
+## Have to do
+> 1. Paper  
+  
+
+## Photo  
+![photos]({{site.baseurl}}/assets/img/20190220.jpg)
