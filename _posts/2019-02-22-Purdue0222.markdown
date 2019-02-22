@@ -1,0 +1,11 @@
+---
+layout: post
+title: 2019.02.22 Team#7 Video
+date: 2019-02-22 19:00:00 +0300
+description: Team intro Video
+tags: [Purdue]
+---
+  
+  
+## PURDUE - IOT SMART BUILDING  
+[![Video Label](http://img.youtube.com/vi/3-w8PeEA7Mg/0.jpg)](https://youtu.be/3-w8PeEA7Mg)
