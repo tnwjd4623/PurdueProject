@@ -8,4 +8,4 @@ tags: [Purdue]
   
   
 ## PURDUE - IOT SMART BUILDING  
-[![Video Label](http://img.youtube.com/vi/3-w8PeEA7Mg/0.jpg)](https://youtu.be/3-w8PeEA7Mg)
+<iframe src="https://youtu.be/3-28PeEA7Mg"></iframe>
